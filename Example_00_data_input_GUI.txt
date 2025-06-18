@@ -1,0 +1,8 @@
+Data input in the GUI: Example_00
+
+Altitude/Altitud (msnm): 2548.43
+Units Tmax/Unidades Tmax: °F
+Units Tmin/Unidades Tmin: °F
+Units Tdew/Unidades Trocío: °F
+Initial date/Fecha inicial: 01/01/2024
+Geographic zone/Zona geográfica: Interior
